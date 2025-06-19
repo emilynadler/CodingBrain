@@ -20,5 +20,5 @@ PreprocessingChild.ipynb: Contains Preprocessing script for Child data.
 ## Data
 All data used for this project can be found at [https://bcedu.box.com/v/CodingBrainData](https://osf.io/5ctzu/files/osfstorage)
 
-## Replication
+## Reproduction
 This script can be easily run using this Google Colab notebook: https://colab.research.google.com/drive/1t58F3qZ8OUo0p4tLWHqj3NXiZMs9096j?usp=sharing.
