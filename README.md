@@ -1,6 +1,6 @@
 # Semantic ERP Correlates in Processing of the Visual Programming Language ScratchJr
 
-This repository contains the Preprocessing scripts used for our study examining the neural correlates underlying the processing of ScratchJr in both adults and children. 
+This repository contains the Preprocessing scripts used for our study examining the neural correlates underlying the processing of ScratchJr in adults. 
 
 Authors:
 Jason Geller
@@ -15,7 +15,6 @@ In recent years, there has been a growing emphasis on early childhood coding edu
 
 ## Overview
 Preprocessing.ipynb: Contains Preprocessing script for Adult data.
-PreprocessingChild.ipynb: Contains Preprocessing script for Child data. 
 
 ## Data
 All data used for this project can be found at https://osf.io/wvnzx/
